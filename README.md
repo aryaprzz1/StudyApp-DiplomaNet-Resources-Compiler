@@ -63,9 +63,3 @@ git clone https://github.com/Shubhamgupta0309/StudyApp-DiplomaNet
   </div>
 </div>
 
-## Contact
-
-- **Email:** shubham.gupta300904@gmail.com
-- **Instagram:** https://instagram.com/_shubham_0309?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==
-- **Facebook:** https://www.facebook.com/profile.php?id=100023775421234&mibextid=b06tZ0
-- **GitHub:** https://github.com/Shubhamgupta0309
